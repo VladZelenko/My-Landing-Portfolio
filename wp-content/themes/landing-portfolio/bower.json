@@ -1,0 +1,22 @@
+{
+  "name": "landing-portfolio",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "main": "gulpfile.js",
+  "authors": [
+    "Vlad Zelenko"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/VladZelenko/My-Landing-Portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.3.1",
+    "jquery": "^3.2.1"
+  }
+}
